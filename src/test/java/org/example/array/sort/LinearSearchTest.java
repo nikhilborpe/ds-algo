@@ -1,5 +1,6 @@
-package org.example;
+package org.example.array.sort;
 
+import org.example.array.search.LinearSearch;
 import org.junit.Assert;
 import org.junit.Test;
 
